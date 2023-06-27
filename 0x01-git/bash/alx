@@ -1,2 +1,3 @@
 #!/bin/bash
+eco "ALX School"
 echo "The school is open!"
